@@ -1,15 +1,20 @@
 # Black-Friday-sale-Data-analysis
 
+
 **Objective:**
+
 
 The main objective of this data analysis project is to gain insights into customer buying behavior by exploring various factors such as gender, age, occupation, marital status, and city of residence using a dataset from a Black Friday sale.
 
+
 **Methods Used:**
+
 
 This project used pandas and seaborn for data importing, cleaning, exploration, visualization, and grouped analysis of a Black Friday sale dataset to gain insights into customer purchasing behavior
 
 
 **Description:**
+
 
 **Data Import**: The first step in this project was importing data from a CSV file related to customer purchasing behavior during a Black Friday sale.
 
@@ -25,5 +30,8 @@ This project used pandas and seaborn for data importing, cleaning, exploration, 
 
 **Insights Generation**: The final step was to derive insights from the analyzed data. These insights highlighted the factors influencing customer purchasing behavior.
 
+
+
 **Outcome:** 
+
 Customer Behavior Understanding , Targeted Marketing, Product Planning, Inventory Management, Business Strategy Formulation
